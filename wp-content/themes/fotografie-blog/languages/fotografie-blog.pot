@@ -1,0 +1,495 @@
+# Copyright (C) 2018 Catch Themes
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Fotografie Blog\n"
+"Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
+"POT-Creation-Date: 2020-02-17 12:18-0800\n"
+"PO-Revision-Date: 2016-12-07 00:45-0500\n"
+"Last-Translator: Catch Themes <info@catchthemes.com>\n"
+"Language-Team: Catch Themes <info@catchthemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: \n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: ../404.php:33
+msgid "Most Used Categories"
+msgstr ""
+
+#: ../404.php:50
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: ../class-customize.php:76
+msgid "Fotografie Blog Pro"
+msgstr ""
+
+#: ../class-customize.php:77
+msgid "Upgrade Now"
+msgstr ""
+
+#: ../components/features/featured-content/display-featured.php:21
+#: ../inc/customizer/featured-content.php:63
+msgid "Featured Content"
+msgstr ""
+
+#: ../components/features/hero-content/content-hero.php:54 ../components/page/content-page.php:25
+#: ../components/post/content-single.php:45
+msgid "Pages:"
+msgstr ""
+
+#: ../components/features/hero-content/content-hero.php:58 ../inc/customizer/featured-slider.php:63
+#: ../inc/customizer/hero-content.php:39
+msgid "Page"
+msgstr ""
+
+#: ../components/features/hero-content/content-hero.php:70 ../components/page/content-page.php:36
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ../components/features/portfolio/display-portfolio.php:17
+msgid "Projects"
+msgstr ""
+
+#: ../components/features/testimonial/display-testimonial.php:21
+#: ../components/features/testimonial/display-testimonial.php:27
+#: ../inc/customizer/testimonial.php:31
+msgid "Testimonials"
+msgstr ""
+
+#: ../components/features/testimonial/display-testimonial.php:79 ../inc/override-parent.php:174
+msgid "Previous Slide"
+msgstr ""
+
+#: ../components/features/testimonial/display-testimonial.php:86 ../inc/override-parent.php:177
+msgid "Next Slide"
+msgstr ""
+
+#: ../components/navigation/navigation-top.php:10
+msgid "Menu"
+msgstr ""
+
+#: ../components/navigation/navigation-top.php:15 ../components/navigation/navigation-top.php:26
+#: ../functions.php:18
+msgid "Primary Menu"
+msgstr ""
+
+#: ../components/navigation/navigation-top.php:39
+msgid "Search"
+msgstr ""
+
+#: ../components/navigation/navigation-top.php:44
+msgid "Social Menu"
+msgstr ""
+
+#: ../components/post/content-single.php:36
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../functions.php:66
+msgid ", "
+msgstr ""
+
+#: ../functions.php:68
+msgid "Categories: "
+msgstr ""
+
+#: ../functions.php:96
+msgid "Leave a comment"
+msgstr ""
+
+#: ../functions.php:96
+msgid "1 Comment"
+msgstr ""
+
+#: ../functions.php:96
+msgid "% Comments"
+msgstr ""
+
+#: ../functions.php:109 ../inc/customizer/customizer.php:101
+msgid "Header Media"
+msgstr ""
+
+#: ../functions.php:110 ../inc/customizer/customizer.php:112
+msgid "This is Header Media Text."
+msgstr ""
+
+#: ../functions.php:112 ../inc/customizer/customizer.php:123
+msgid "Explore"
+msgstr ""
+
+#: ../header.php:28
+msgid "Skip to content"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:31 ../inc/customizer/customizer.php:92
+msgid "Homepage / Frontpage"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:32
+msgid "Excluding Homepage"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:33
+msgid "Excluding Homepage, Page/Post Featured Image"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:34 ../inc/customizer/customizer.php:93
+msgid "Entire Site"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:35
+msgid "Entire Site, Page/Post Featured Image"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:36
+msgid "Pages and Posts"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:37
+msgid "Disabled"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:39
+msgid "Enable on "
+msgstr ""
+
+#: ../inc/customizer/customizer.php:50
+msgid "Header Media Overlay"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:66
+msgid "Center"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:67
+msgid "Right"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:68
+msgid "Left"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:70
+msgid "Content Alignment"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:81
+msgid "Header Media Logo"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:94
+msgid "Enable Header Media logo on"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:106
+msgid "Header Media Title"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:117
+msgid "Header Media Text"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:128
+msgid "Header Media Link Text"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:139
+msgid "Header Media Link URL"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:149
+msgid "Check to Open Link in New Window/Tab"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:163
+msgid "Theme Instructions"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:167
+msgid "Support"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:171
+msgid "Changelog"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:175
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:179
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:183
+msgid "Google+"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:187
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:203
+msgid "Use Featured Image as Header image in Single Page/Posts"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:217 ../inc/customizer/customizer.php:228
+msgid "Important Links"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:272
+msgid "Edit"
+msgstr ""
+
+#: ../inc/customizer/featured-content.php:19
+#, php-format
+msgid "For all Featured Content Options for this theme, go %1$shere%2$s"
+msgstr ""
+
+#: ../inc/customizer/featured-content.php:50
+#, php-format
+msgid ""
+"For Featured Content, install %1$sEssential Content Types%2$s Plugin with Featured Content Type "
+"Enabled"
+msgstr ""
+
+#: ../inc/customizer/featured-content.php:74 ../inc/customizer/featured-slider.php:27
+#: ../inc/customizer/hero-content.php:27 ../inc/customizer/portfolio.php:73
+#: ../inc/customizer/service.php:35 ../inc/customizer/testimonial.php:73
+msgid "Enable on"
+msgstr ""
+
+#: ../inc/customizer/featured-content.php:85 ../inc/customizer/portfolio.php:85
+#: ../inc/customizer/testimonial.php:86
+#, php-format
+msgid "For CPT heading and sub-heading, go %1$shere%2$s"
+msgstr ""
+
+#: ../inc/customizer/featured-content.php:101
+msgid ""
+"Save and refresh the page if No. of Featured Content is changed (Max no of Featured Content is 20)"
+msgstr ""
+
+#: ../inc/customizer/featured-content.php:108
+msgid "No of Featured Content"
+msgstr ""
+
+#: ../inc/customizer/featured-content.php:126
+msgid "Custom Post #"
+msgstr ""
+
+#: ../inc/customizer/featured-content.php:142
+msgid "2 columns"
+msgstr ""
+
+#: ../inc/customizer/featured-content.php:143
+msgid "3 columns"
+msgstr ""
+
+#: ../inc/customizer/featured-content.php:144
+msgid "4 columns"
+msgstr ""
+
+#: ../inc/customizer/featured-slider.php:17
+msgid "Featured Slider"
+msgstr ""
+
+#: ../inc/customizer/featured-slider.php:39
+msgid "Save and refresh the page if No. of Slides is changed (Max no of slides is 20)"
+msgstr ""
+
+#: ../inc/customizer/featured-slider.php:46
+msgid "No of Slides"
+msgstr ""
+
+#: ../inc/customizer/featured-slider.php:79
+msgid "Show Excerpt"
+msgstr ""
+
+#: ../inc/customizer/featured-slider.php:80
+msgid "Full Content"
+msgstr ""
+
+#: ../inc/customizer/featured-slider.php:81
+msgid "Hide Content"
+msgstr ""
+
+#: ../inc/customizer/helpers.php:75 ../inc/customizer/helpers.php:104
+msgid "-- Select --"
+msgstr ""
+
+#: ../inc/customizer/helpers.php:80 ../inc/customizer/helpers.php:108
+#, php-format
+msgid "#%d (no title)"
+msgstr ""
+
+#: ../inc/customizer/hero-content.php:16
+msgid "Hero Content Options"
+msgstr ""
+
+#: ../inc/customizer/portfolio.php:19
+#, php-format
+msgid "For Portfolio Options for this theme, go %1$shere%2$s"
+msgstr ""
+
+#: ../inc/customizer/portfolio.php:31 ../inc/customizer/portfolio.php:117
+msgid "Portfolio"
+msgstr ""
+
+#: ../inc/customizer/portfolio.php:56
+#, php-format
+msgid "For Portfolio, install %1$sEssential Content Types%2$s Plugin with Portfolio Type Enabled"
+msgstr ""
+
+#: ../inc/customizer/portfolio.php:99 ../inc/customizer/testimonial.php:100
+msgid "Number of items to show"
+msgstr ""
+
+#: ../inc/customizer/service.php:14
+#, php-format
+msgid "For Service Options for this theme, go %1$shere%2$s"
+msgstr ""
+
+#: ../inc/customizer/service.php:26
+msgid "Service"
+msgstr ""
+
+#: ../inc/customizer/service.php:46
+msgid "Save and refresh the page if No. of Service is changed"
+msgstr ""
+
+#: ../inc/customizer/service.php:51
+msgid "No of Service"
+msgstr ""
+
+#: ../inc/customizer/service.php:66
+msgid "Service "
+msgstr ""
+
+#: ../inc/customizer/testimonial.php:19
+#, php-format
+msgid "For Testimonial Options for this theme, go %1$shere%2$s"
+msgstr ""
+
+#: ../inc/customizer/testimonial.php:56
+#, php-format
+msgid ""
+"For Testimonial, install %1$sEssential Content Types%2$s Plugin with Testimonial Content Type "
+"Enabled"
+msgstr ""
+
+#: ../inc/customizer/testimonial.php:118
+msgid "Testimonial"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:17
+msgid "Right Sidebar ( Content, Primary Sidebar )"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:18
+msgid "No Sidebar"
+msgstr ""
+
+#: ../inc/metabox/metabox.php:62
+msgid "Default"
+msgstr ""
+
+#: ../inc/metabox/metabox.php:67
+msgid "Enable"
+msgstr ""
+
+#: ../inc/metabox/metabox.php:72
+msgid "Disable"
+msgstr ""
+
+#: ../inc/metabox/metabox.php:81
+msgid "Header Featured Image Options"
+msgstr ""
+
+#: ../inc/metabox/metabox.php:140
+msgid "Fotografie Blog Options"
+msgstr ""
+
+#: ../inc/override-parent.php:84
+msgid "Blond"
+msgstr ""
+
+#: ../inc/override-parent.php:89
+msgid "Closeup"
+msgstr ""
+
+#: ../inc/override-parent.php:112
+msgctxt "Raleway: on or off"
+msgid "on"
+msgstr ""
+
+#: ../inc/override-parent.php:118
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../inc/override-parent.php:298
+msgid "Sidebar"
+msgstr ""
+
+#: ../inc/override-parent.php:300
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: ../inc/override-parent.php:308
+msgid "Footer 1"
+msgstr ""
+
+#: ../inc/override-parent.php:310 ../inc/override-parent.php:320 ../inc/override-parent.php:330
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: ../inc/override-parent.php:318
+msgid "Footer 2"
+msgstr ""
+
+#: ../inc/override-parent.php:328
+msgid "Footer 3"
+msgstr ""
+
+#: ../inc/override-parent.php:339
+msgid "Instagram"
+msgstr ""
+
+#: ../inc/override-parent.php:341
+msgid ""
+"Appears above footer. This sidebar is only for Widget from plugin Catch Instagram Feed Gallery "
+"Widget and Catch Instagram Feed Gallery Widget Pro"
+msgstr ""
+
+#: ../inc/service.php:27
+msgid "Services "
+msgstr ""
+
+#: ../index.php:23
+msgid "News"
+msgstr ""
